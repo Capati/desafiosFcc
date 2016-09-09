@@ -10,7 +10,7 @@ Retorne a matriz resultante. As matrizes de entrada devem permanecer o mesmo ap�
 
 ## Solução
 
-Comece criando uma nova matriz `newArr` que deve guardar os elementos da segunda matriz, use o método `slice`. Esse procedimento é necessário para que `arr2` não seja modificada quando formos usar `splice` em breve.
+Comece criando uma nova matriz `newArr` que deve guardar os elementos da segunda matriz, use o método `slice`. Esse procedimento é necessário para evitar que `arr2` não seja modificada quando formos usar `splice` em breve.
 
 ```js
 var newArr = arr2.slice(0);
@@ -24,7 +24,7 @@ for (var i = 0; i < arr1.length; i++) {
 }
 ```
 
-Repare que usamos `n++` para garantir que a cada iteração a posição atual do elementos seja atualizada. Para finalizar, retorne a matriz `newArr` (**Linha-6** a seguir).
+Repare que usamos `n++` para garantir que a cada iteração a posição atual do elementos seja atualizada. Para finalizar, retorne a matriz `newArr`.
 
 ```js
 function frankenSplice(arr1, arr2, n) {
