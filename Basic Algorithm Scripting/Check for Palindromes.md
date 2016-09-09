@@ -49,9 +49,9 @@ if (str === reverso) {
 
 Caso não queira usar `if else`, veja uma forma mais simples:
 
-{% codeblock lang:javascript %}
+```js
 return str === reverso;
-{% endcodeblock %}
+```
 
 Código final:
 
