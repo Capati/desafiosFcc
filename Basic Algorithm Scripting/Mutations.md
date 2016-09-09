@@ -18,7 +18,7 @@ mutation(["hello", "hey"]);
 
 Veja aqui alguns links úteis:
 
-[String.indexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf){:target="_blank"}
+[String.indexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf)
 
 ## Solução
 
