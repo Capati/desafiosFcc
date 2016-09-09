@@ -1,4 +1,4 @@
-## Descrição
+# Reverse a Sring
 
 Reverta a string sendo fornecida como argumento para a função.
 
