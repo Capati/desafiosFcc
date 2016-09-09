@@ -1,4 +1,4 @@
-# Descrição
+# Find the Longest Word in a String
 
 Retorne o tamanho da maior palavra em uma `string`.
 
