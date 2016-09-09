@@ -1,4 +1,4 @@
-## Descrição
+## Check for Palindromes
 
 Um palíndromo é uma palavra ou sentença que é lida da mesma forma em ambos de frente e ao contrário, ignorando pontuação, case e espaço.
 
