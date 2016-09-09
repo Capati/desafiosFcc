@@ -1,4 +1,4 @@
-## Descrição
+## Factorialize a Number
 
 Retorne o fatorial de um número inteiro.
 
